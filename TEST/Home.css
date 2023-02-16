@@ -1,0 +1,31 @@
+ .u-section-1 {
+  background-image: url("https://pixabay.com/get/g73cfc618392a77480ea0d4664d738e3b437ade09544bb808fef4d335670e813751be05411df5f22f398cddfd5b7c5b55441463af659dd31a76c79bc140ebf426_1280.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 450px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 371px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 284px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 213px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 134px;
+  }
+}
